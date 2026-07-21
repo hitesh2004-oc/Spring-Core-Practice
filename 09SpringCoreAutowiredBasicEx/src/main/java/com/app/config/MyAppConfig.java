@@ -2,6 +2,7 @@ package com.app.config;
 
 import org.springframework.context.annotation.ComponentScan;
 
+//this is only Config File in Project
 //common package for all
 //Means go and search the classes in this package and sub package
 //No Property file Nothing
