@@ -9,8 +9,8 @@ public class Test {
 
 				// ac.scan("com.app");
 				// ac.refresh();
-				//Object obj1 = ac.getBean("cob");
-				//Object obj = ac.getBean("eobj");
+				Object obj1 = ac.getBean("cob");
+				Object obj = ac.getBean("eobj");
 				Object ob3 = ac.getBean("vr");
 				System.out.println(ob3);
 				//In Real time We create a separate class with any name
