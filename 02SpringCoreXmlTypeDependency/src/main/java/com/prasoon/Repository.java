@@ -2,7 +2,7 @@ package com.prasoon;
 
 public class Repository {
 	private String entity;
-
+ // Using Getter & Setter
 	public Repository() {
 		super();
 	}
@@ -19,6 +19,4 @@ public class Repository {
 	public String toString() {
 		return "Repository [entity=" + entity + "]";
 	}
-	
-
 }
