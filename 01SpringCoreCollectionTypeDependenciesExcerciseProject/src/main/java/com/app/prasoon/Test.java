@@ -6,7 +6,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class Test {
 	public static void main(String[] args) {
 		ApplicationContext ac = new ClassPathXmlApplicationContext("config.xml");
-		
+	
 		Student s =(Student)ac.getBean("ss");
 		System.out.println(s.getName());
 		System.out.println(s.getPhones());
