@@ -6,7 +6,6 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class ProcessObject {
-
     @Autowired
     @Qualifier("processImpl2")
     private Process p;
