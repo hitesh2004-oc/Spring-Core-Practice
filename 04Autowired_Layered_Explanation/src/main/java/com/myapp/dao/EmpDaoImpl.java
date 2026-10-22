@@ -19,7 +19,7 @@ public class EmpDaoImpl implements EmpDao {
     public String updateEmployee() {
         return "employee updated successfully";
     }
-
+    
     @Override
     public String deleteEmployee() {
         return "employee deleted successfully";
