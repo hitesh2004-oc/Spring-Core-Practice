@@ -3,7 +3,6 @@ package com.prasoon;
 public class Repository {
 	private int pathToStore; //ptd
 	private String r;
-
 	public Repository() {
 		super();
 	}
