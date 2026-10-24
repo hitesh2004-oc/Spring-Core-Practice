@@ -18,6 +18,4 @@ public class HandlerInfo {
 	public String toString() {
 		return "HandlerInfo [resolverCode=" + resolverCode + ", pathToStore=" + pathToStore + "]";
 	}
-	
-
 }
